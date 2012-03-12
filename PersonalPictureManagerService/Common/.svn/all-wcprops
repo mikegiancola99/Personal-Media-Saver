@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/justgoodcode/!svn/ver/283/trunk/MsftProjects/Pix2HomeServer/PersonalPictureManager/PersonalPictureManagerService/Common
+END
+FileHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/justgoodcode/!svn/ver/303/trunk/MsftProjects/Pix2HomeServer/PersonalPictureManager/PersonalPictureManagerService/Common/FileHelper.cs
+END
+Logger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/justgoodcode/!svn/ver/294/trunk/MsftProjects/Pix2HomeServer/PersonalPictureManager/PersonalPictureManagerService/Common/Logger.cs
+END
+PixFileHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/justgoodcode/!svn/ver/304/trunk/MsftProjects/Pix2HomeServer/PersonalPictureManager/PersonalPictureManagerService/Common/PixFileHelper.cs
+END
+PixDBInterface.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/justgoodcode/!svn/ver/304/trunk/MsftProjects/Pix2HomeServer/PersonalPictureManager/PersonalPictureManagerService/Common/PixDBInterface.cs
+END
