@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PersonalPictureManagerService.Properties" GeneratedClassName="Settings">
-  <Profiles />
-  <Settings>
-    <Setting Name="PersonalPictureManagerService_configSvcReference_Config" Type="(Web Service URL)" Scope="Application">
-      <Value Profile="(Default)">http://www.justgoodcode.com/picturemanager/service/config.asmx</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>
